@@ -21,6 +21,7 @@ dependencies = [
     # [SY] 외부 DB SSH 터널 동기화용
     "paramiko>=2.12.0,<3.0",
     "sshtunnel>=0.4.0,<0.5",
+    "mcp==2.3.0",
 ]
 
 [project.optional-dependencies]
